@@ -1,0 +1,16 @@
+# Normalize line endings for text, keep binaries binary.
+* text=auto eol=lf
+
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.woff2 binary
+
+*.rs text diff=rust
+*.md text diff=markdown
+*.toml text
+*.yml text
+*.yaml text
+*.svg text
