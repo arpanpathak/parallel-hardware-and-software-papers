@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this tutorial, code, or its measurements, please cite this repository and the manuscript."
+title: "Parallel Hardware & Software Papers"
+type: software
+version: 0.1.0
+date-released: 2026-11-02
+license: MIT
+license-url: "https://github.com/arpanpathak/parallel-hardware-and-software-papers/blob/main/LICENSE"
+repository-code: "https://github.com/arpanpathak/parallel-hardware-and-software-papers"
+url: "https://github.com/arpanpathak/parallel-hardware-and-software-papers"
+abstract: >-
+  Open companions to papers on parallel hardware and software. The first entry
+  is a reproducible tutorial on tiled matrix multiplication in Rust with
+  cuda-oxide, measured on an NVIDIA Jetson AGX Thor, together with a JOSE
+  submission package and teaching material.
+authors:
+  - family-names: Pathak
+    given-names: Arpan
+    website: "https://github.com/arpanpathak"
+keywords:
+  - parallel computing
+  - GPU computing
+  - CUDA
+  - Rust
+  - cuda-oxide
+  - matrix multiplication
+  - tiling
+  - shared memory
+  - computer science education
+  - open educational resources
